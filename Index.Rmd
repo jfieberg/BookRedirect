@@ -1,0 +1,52 @@
+---
+title: "Statistics for Ecologists"
+author: "John Fieberg"
+date: "2024-10-25"
+#output: bookdown::pdf_document2
+output: bookdown::gitbook
+---
+# {-}
+
+Thank you for your interest in the Statistics for Ecologists book. The most recent version of the book can be found [here](https://statistics4ecologists-v2.netlify.app/).
+
+Older archived versions (with comments from readers) can be found at the URLs below:
+
+- [Beta version](https://fw8051statistics4ecologists.netlify.app/)
+- [First version prior to publishing](https://statistics4ecologists-v1.netlify.app/)
+- [Second verion, this is the first edition that was published as a pdf by University of Minnesota Library Publishing](https://statistics4ecologists-v2.netlify.app/)
+ 
+```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), out.width="50%", comment=NA}
+# convert to png here: https://www.freepdfconvert.com/pdf-to-png#9508adb052568a188352ca30533788e8
+#knitr::include_graphics('frontpage.png', dpi = NA)
+knitr::include_graphics('cover2.jpg', dpi = NA)
+options(width=160)
+```
+  
+```{=html}
+<br>
+<b>Cover photograph</b>: 
+<br>
+Caroline Fieberg at Arches National Park, summer 2021. Photo taken by John Fieberg. 
+<br>
+<br>
+```
+
+
+```{=html}
+<b>Suggested Citation:</b>
+<br>
+Fieberg, John. (2024). Statistics for Ecologists: A Frequentist and Bayesian Treatment of Modern Regression Models. University of Minnesota Libraries Publishing. Retrieved from the University of Minnesota Digital Conservancy. https://doi.org/10.24926/9781959870029 <br>
+<br>
+```
+
+```{=html}
+<b>License:</b>
+<br>
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<br>
+<br>
+<!---<img src="graphics/PublishingStamp_allblack.png" alt="" height=60 width=172> --->
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" height=60 width=170.3226 src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+<br>
+```
+
