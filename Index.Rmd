@@ -5,14 +5,14 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 # {-}
 
-Thank you for your interest in the Statistics for Ecologists book. The latest version (the first produced using quarto instead of bookdown) can be found [at this link](https://statistics4ecologists-v3.netlify.app/). I will be teaching with it for the first time this spring (2025). As with past editions, you can provide comments and correct errors using hypothes.is.
+Thank you for your interest in the Statistics for Ecologists book. The latest version (the first produced using quarto instead of bookdown) can be found [at this link](https://statistics4ecologists-v3.netlify.app/). I will be teaching with it for the first time this spring (2025). As with past editions, you can provide comments and correct errors using hypothes.is. Over the course of the next year, I will be working to improve accessibility (e.g., by adding alt-text to figures). I am sure there will be some minor kinks to work through as I am still learning quarto and tools for increasing accessibility. 
 
 
 Older archived versions of the book can be found at the URLs below:
 
 - [Beta version](https://statistics4ecologistsbeta.netlify.app)
 - [First version prior to publishing](https://statistics4ecologists-v1a.netlify.app/)
-- [Second verion, this is the first edition that was published as a pdf by University of Minnesota Library Publishing](https://statistics4ecologists-v2a.netlify.app/)
+- [Second version, this is the first edition that was published as a pdf by University of Minnesota Library Publishing](https://statistics4ecologists-v2a.netlify.app/)
  
 
 
