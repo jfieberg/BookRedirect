@@ -1,20 +1,22 @@
 ---
 title: "Statistics for Ecologists"
 author: "John Fieberg"
-date: "2024-10-25"
-#output: bookdown::pdf_document2
-output: bookdown::gitbook
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 # {-}
 
-Thank you for your interest in the Statistics for Ecologists book. The most recent version of the book can be found [here](https://statistics4ecologists-v2.netlify.app/).
+Thank you for your interest in the Statistics for Ecologists book. The latest version (the first produced using quarto instead of bookdown) can be found [at this link](https://statistics4ecologists-v3.netlify.app/). I will be teaching with it for the first time this spring (2025). As with past editions, you can provide comments and correct errors using hypothes.is.
 
-Older archived versions (with comments from readers) can be found at the URLs below:
 
-- [Beta version](https://fw8051statistics4ecologists.netlify.app/)
-- [First version prior to publishing](https://statistics4ecologists-v1.netlify.app/)
-- [Second verion, this is the first edition that was published as a pdf by University of Minnesota Library Publishing](https://statistics4ecologists-v2.netlify.app/)
+Older archived versions of the book can be found at the URLs below:
+
+- [Beta version](https://statistics4ecologistsbeta.netlify.app)
+- [First version prior to publishing](https://statistics4ecologists-v1a.netlify.app/)
+- [Second verion, this is the first edition that was published as a pdf by University of Minnesota Library Publishing](https://statistics4ecologists-v2a.netlify.app/)
  
+
+
+
 ```{r fig.align='center', echo=FALSE, include=identical(knitr:::pandoc_to(), 'html'), out.width="50%", comment=NA}
 # convert to png here: https://www.freepdfconvert.com/pdf-to-png#9508adb052568a188352ca30533788e8
 #knitr::include_graphics('frontpage.png', dpi = NA)

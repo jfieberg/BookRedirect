@@ -3,6 +3,9 @@ title: Cross-references with `Rmarkdown`, `bookdown` and `modelsummary`
 output: 
   bookdown::pdf_document2:
     toc: false
+    keep_tex: TRUE
+bibliography: [book.bib]
+biblio-style: apalike
 ---
 
 The `bookdown` package allows you to compile PDF documents with table numbers and cross references. To do this, you must include a title in your table, use the `\@ref{tab:name}` construct, and give a name to the `R` chunk where `modelsummary` is called. 
@@ -18,3 +21,7 @@ library(modelsummary)
 mod <- lm(hp ~ mpg, mtcars)
 modelsummary(mod, title = 'This title describes the content of this table.')
 ```
+
+References:
+
+[@Xie2016]
